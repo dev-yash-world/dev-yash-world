@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **yashtripathi.in@gmail.com**
+- 📫 How to reach me **https://yashtripathi.info/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
